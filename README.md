@@ -1,4 +1,4 @@
-# 📊 Google Play Store Data Visualization — Internship Project
+# 📊 Google Play Store Data Visualization
 
 
 
