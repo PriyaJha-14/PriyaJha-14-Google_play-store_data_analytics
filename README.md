@@ -83,7 +83,7 @@ current_hour = ist_now.hour
 
 ## ✅ Task 1 — Grouped Bar Chart
 
-**File:** `task1_grouped_bar_chart/task1_grouped_bar_chart.ipynb`
+**File:** `task1.ipynb`
 **Time Gate:** 3:00 PM – 5:00 PM IST
 
 ### Objective
@@ -120,7 +120,7 @@ Compare the **average rating** and **total review count** for the **top 10 app c
 
 ## ✅ Task 2 — Choropleth Map
 
-**File:** `task2_choropleth_map/task2_choropleth_map.ipynb`
+**File:** `task2.ipynb`
 **Time Gate:** 6:00 PM – 8:00 PM IST
 
 ### Objective
@@ -162,7 +162,7 @@ TOOLS, ENTERTAINMENT, PRODUCTIVITY, VIDEO_PLAYERS, FAMILY
 
 ## ✅ Task 3 — Dual-Axis Bar Chart
 
-**File:** `task3_dual_axis_chart/task3_dual_axis_chart.ipynb`
+**File:** `task3.ipynb`
 **Time Gate:** 1:00 PM – 2:00 PM IST
 
 ### Objective
@@ -200,7 +200,7 @@ Compare **average installs** and **average revenue** for **Free vs Paid apps** w
 
 ## ✅ Task 4 — Time Series Line Chart
 
-**File:** `task4_timeseries/task4_timeseries.ipynb`
+**File:** `task4.ipynb`
 **Time Gate:** 6:00 PM – 9:00 PM IST
 
 ### Objective
@@ -245,7 +245,7 @@ Months where MoM growth exceeded 20% are marked with ⭐ star markers and faint 
 
 ## ✅ Task 5 — Bubble Chart
 
-**File:** `task5_bubble_chart/task5_bubble_chart.ipynb`
+**File:** `task5.ipynb`
 **Time Gate:** 5:00 PM – 7:00 PM IST
 
 ### Objective
@@ -301,7 +301,7 @@ Each bubble represents one entire category (not individual apps):
 
 ## ✅ Task 6 — Stacked Area Chart
 
-**File:** `task6_stacked_area/task6_stacked_area.ipynb`
+**File:** `task6.ipynb`
 **Time Gate:** 4:00 PM – 6:00 PM IST
 
 ### Objective
