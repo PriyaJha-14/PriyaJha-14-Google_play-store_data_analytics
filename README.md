@@ -22,23 +22,17 @@ google-playstore-visualization/
 ├── data/
 │   └── googleplaystore.csv          ← Source dataset (Google Play Store)
 │
-├── task1_grouped_bar_chart/
-│   └── task1_grouped_bar_chart.ipynb
+├── task1.ipynb
 │
-├── task2_choropleth_map/
-│   └── task2_choropleth_map.ipynb
+├── task2_.ipynb
 │
-├── task3_dual_axis_chart/
-│   └── task3_dual_axis_chart.ipynb
+├── task3.ipynb
 │
-├── task4_timeseries/
-│   └── task4_timeseries.ipynb
+├── task4.ipynb
 │
-├── task5_bubble_chart/
-│   └── task5_bubble_chart.ipynb
+├── task5.ipynb
 │
-├── task6_stacked_area/
-│   └── task6_stacked_area.ipynb
+├── task6.ipynb
 │
 └── README.md
 ```
