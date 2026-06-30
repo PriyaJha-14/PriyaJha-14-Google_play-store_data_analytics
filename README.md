@@ -424,6 +424,7 @@ monthly['High_Growth'] = monthly['MoM_Growth'] > THRESHOLD
 ## 👩‍💻 Author
 
 **Priya**
+
 Built with Python, Plotly, Pandas, and Jupyter Notebook
 
 ***
